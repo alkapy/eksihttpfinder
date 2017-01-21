@@ -15,9 +15,9 @@ Bu programcık kendisine verilen başlık linkinin bütün sayfalarını tek tek
 
 terminalde
 
-code()
+
  
-Markup :  `code()`
+```
 
     python linkbul.py https://eksisozluk.com/yaran-gifler--2682638
     
@@ -29,7 +29,7 @@ Markup :  `code()`
     
     python linkbul.py https://eksisozluk.com/yaran-gifler--2682638 "yaran gifler"
     
-Markup : ```python
+```
 
 yazarak çalıştırabilirsiniz.
 
