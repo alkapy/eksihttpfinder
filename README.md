@@ -13,8 +13,12 @@ Bu programcık kendisine verilen başlık linkinin bütün sayfalarını tek tek
 
 ### Linux İçin ###
 
-terminalde 
+terminalde
+
+code()
+ 
 Markup :  `code()`
+
     python linkbul.py https://eksisozluk.com/yaran-gifler--2682638
     
     veya 
@@ -24,6 +28,7 @@ Markup :  `code()`
     veya
     
     python linkbul.py https://eksisozluk.com/yaran-gifler--2682638 "yaran gifler"
+    
 Markup : ```python
 
 yazarak çalıştırabilirsiniz.
