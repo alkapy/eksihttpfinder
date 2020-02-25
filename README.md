@@ -40,3 +40,6 @@ linkten sonra oluşturacağı dosya ismi olarak istediğinizi yazabilirsiniz. he
 
 Windows kullanıcıları için yakın zamanda .exe formatında yayınlanacaktır.
 
+https://nearmelist.com/us/getpeoquotes-south-beach-florida-4XX9VD68
+https://nearmelist.com/ca/capital-city-roundnet-bells-corners-ontario-4DXV72V8
+
